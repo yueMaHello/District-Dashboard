@@ -2,7 +2,6 @@
 
 ## Description:
 This is an Web App building with Arcgis WebAppBuilder Developer Edition. When you click on one district on the map, the dashboard will show charts to display different information of that district.
-
 ## Set up:
 All the code is stored in 'C:\Users\tsengineer\Desktop\WebAppBuilderForArcGIS\server\apps\15'
 ## Run it:
