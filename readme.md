@@ -8,5 +8,5 @@ All the code is stored in 'C:\Users\tsengineer\Desktop\WebAppBuilderForArcGIS\se
 Run 'C:\Users\tsengineer\Desktop\WebAppBuilderForArcGIS\startup.bat'.
 Open a browser and go to 'http://mj04w12b.coe.ads:3344/webappbuilder/apps/15/'
 ## How to contribute to the App
-There is a Yue's documentation provided.
+'Yue's documentation' is provided.
 You need to learn how the WAB works. The best resource should be YouTube.
