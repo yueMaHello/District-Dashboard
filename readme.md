@@ -10,7 +10,7 @@ Open a browser and go to 'http://mj04w12b.coe.ads:3344/webappbuilder/apps/15/'
 ## Update Dataset:
 1. Open the folder 'C:\Users\tsengineer\Desktop\WebAppBuilderForArcGIS\server\apps\15\data'
 2. You can see there are several csv files with clear names
-3. You would be better to just update the data and keep the same file name; Otherwise, you have to look into the code.
+3. You would be better to just update the data and keep the same file name; otherwise, you have to look into the code.
 
 ## How to contribute to the App
 'Yue's documentation' is provided.
